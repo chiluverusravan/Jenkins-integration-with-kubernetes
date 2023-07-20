@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    dockerimagename = "chiluverusravan/nodeapp_test"
+    dockerimagename = "chiluverusravan/nodeapp"
     dockerImage = ""
   }
 
